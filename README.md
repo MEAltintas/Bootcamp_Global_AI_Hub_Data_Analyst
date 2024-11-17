@@ -42,6 +42,13 @@ kablosuz olarak iletilmiştir.
 gibi bilgileri içermektedir.
 
 
+
+
+![image](https://github.com/user-attachments/assets/81fb6e55-be67-4b7a-b2c1-dcf89ba60653)
+
+
+
+
 # Çalışmada Uygulanan Adımlar
 # 1. Veri İncelemesi ve Ön İşleme
 - Veri setinde eksik değer bulunmamaktadır.
@@ -105,3 +112,5 @@ Motor sıcaklık bileşenleri, elektrik motorlarının performansı ve ömrü ü
 - **Enerji Verimliliği:** Motorun çalıştırılma parametreleri optimize edilerek enerji verimliliği sağlanabilir.
 
 
+
+**Kaggle Bağlantısı :** https://www.kaggle.com/code/mnreezgialtinta/electricmotortemprature
