@@ -1,6 +1,5 @@
 # Electric Motor Temperature
 
-
 ![image](https://static.vecteezy.com/system/resources/thumbnails/028/197/869/small_2x/liquid-transfer-pump-with-asynchronous-electric-motor-modern-chemical-industrial-equipment-in-an-oil-refinery-petrochemical-plant-ai-generated-free-photo.jpg)
 
 
